@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **PhD Candidate in Epidemiology** at **The Ohio State University** (Expected May 2026. My research focuses on **oncology real-world evidence (RWE)**, retrospective observational study design, and advanced statistical programming in **R and SQL**.
+I am a **PhD Candidate in Epidemiology** at **The Ohio State University** (Expected May 2026). My research focuses on **oncology real-world evidence (RWE)**, retrospective observational study design, and advanced statistical programming in **R and SQL**.
 
 Currently, my dissertation examines the structural and spatial factors associated with HIV viral load suppression and drug resistance in East Africa, utilizing population-based survey data.
 
