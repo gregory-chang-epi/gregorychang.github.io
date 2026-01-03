@@ -81,7 +81,7 @@ A rotating dinner club where friends take turns cooking and donate to my Steps f
         <span class="ssc-swatch ssc-steps"></span>
         <strong>Steps for Sarcoma</strong>
       </div>
-      <span class="ssc-mono">$5,520 (86.7%)</span>
+      <span class="ssc-mono">$5,520</span>
     </div>
 
     <div class="ssc-row">
@@ -89,7 +89,7 @@ A rotating dinner club where friends take turns cooking and donate to my Steps f
         <span class="ssc-swatch ssc-supper"></span>
         <strong>Supper Club</strong>
       </div>
-      <span class="ssc-mono">$845 (13.3%)</span>
+      <span class="ssc-mono">$845</span>
     </div>
   </div>
 
